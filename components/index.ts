@@ -1,0 +1,19 @@
+import Hero from "./Hero";
+import CustomButton from "./CustomButton";
+import Navbar from '@/components/Navbar'
+import Footer from '@/components/Footer'
+import SearchBar from "./SearchBar";
+import SearchManufacturer from "./SearchManufacturer";
+import CarCard from "./CarCard";
+import CarDetails from "./CarDetails";
+
+export {
+    Hero,
+    CustomButton,
+    Navbar,
+    Footer,
+    SearchBar,
+    SearchManufacturer,
+    CarCard,
+    CarDetails,
+}
